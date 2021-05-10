@@ -9,7 +9,7 @@ If interested please visit the LeetCode site to get the full requirements and te
 If interested in my approach and comments; I invite you to read the associated post
 in my blog at:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/05/11/longest-substring-without-repeating-characters/
 
 Remember that the best way to learn is to read and experiment.
 Memorizing solutions is not a good idea.
